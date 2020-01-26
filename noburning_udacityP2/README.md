@@ -1,2 +1,0 @@
-# NoBurning
-Udacity: Second Project
